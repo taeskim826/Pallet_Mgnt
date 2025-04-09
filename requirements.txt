@@ -1,0 +1,6 @@
+streamlit
+pandas
+datetime
+timedelta
+mysql.connector
+time
